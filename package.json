@@ -1,0 +1,13 @@
+{
+    "name": "audio-xp",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Library for finding real ninjas",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build"
+    },
+    "devDependencies": {
+      "vite": "^4.4.5"
+    }
+}
